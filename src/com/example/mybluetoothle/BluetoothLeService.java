@@ -40,6 +40,8 @@ import java.util.UUID;
  * given Bluetooth LE device.
  * 用于连接和管理数据交互的service
  */
+
+
 public class BluetoothLeService extends Service {
     private final static String TAG = BluetoothLeService.class.getSimpleName();
 
